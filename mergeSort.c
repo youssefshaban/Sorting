@@ -31,7 +31,7 @@ int main (){
 	    print();
 	    flag=1;
 	}
-	   clrscr();
+	  
     }while(flag == 0);
 
     getch();
